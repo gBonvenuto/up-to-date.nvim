@@ -11,7 +11,7 @@ Most of it's actions, if they fail, will not cause harm to your configuration, b
 
 or simply don't use it.
 
-I'll make sure to show a warning every time 
+I'll make sure to show a warning every time this plugin is about to do something that may break your config if something goes wrong.
 
 # up-to-date.nvim
 
