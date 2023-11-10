@@ -1,2 +1,3 @@
 # up-to-date.nvim
-This neovim plugin shows a popup every time you run neovim and checks if your configuration (which is assumed is a git repository) is up to date with the origin
+
+This plugin is for those that have a Neovim configuration in a git repository. That is, their `./config/nvim/` (or similar) is a git repo.
