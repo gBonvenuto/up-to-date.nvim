@@ -4,6 +4,8 @@ local M = {}
 --      Criar uma interface para o usuário interagir com as informações
 --      Fazer com que o git fetch e o git rev-list ocorram na pasta de configurações do neovim
 --      Criar um terminalzinho para fazer o git pull
+--      coco
+--      Pesquisar uma integração com o plugin fugitive
 M.origin_master = nil
 M.master = nil
 
