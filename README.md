@@ -1,3 +1,7 @@
+# Unecessary
+
+This plugin ended up being unecessary, since I can do it all using Fugitive in a script.
+
 # Caution
 
 **Once the plugin gets to a stable stage, I'll remove this warning**
