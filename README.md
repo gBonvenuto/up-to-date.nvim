@@ -1,5 +1,7 @@
 # Caution
 
+**Once the plugin gets to a stable stage, I'll remove this warning**
+
 This plugin is my first Neovim plugin, and is thought to be only used by myself and friends. I understand that messing with git on the first plugin is probably not a good idea, so do not trust this plugin in the sense that it will work completely fine.
 
 Most of it's actions, if they fail, will not cause harm to your configuration, but will simply not work. But if you suspect a feature from this plugin could possibly cause harm, do the following:
